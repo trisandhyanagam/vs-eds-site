@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--vs-eds-site--trisandhyanagam.aem.page/
+- Live: https://main--vs-eds-site--trisandhyanagam.aem.live/
 
 ## Documentation
 
