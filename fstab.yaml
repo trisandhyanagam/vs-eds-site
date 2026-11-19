@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p120465-e2366535.adobeaemcloud.com/bin/franklin.delivery/trisandhyanagam/vs-eds-site/main"
+    type: "markup"
+    suffix: ".html"
